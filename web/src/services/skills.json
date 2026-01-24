@@ -178,5 +178,30 @@
         "name": "intelligent-routing",
         "description": "Automatic agent selection and routing",
         "category": "Other"
+    },
+    {
+        "name": "vercel-react-best-practices",
+        "description": "Performance optimization guide for React and Next.js",
+        "category": "Frontend & UI"
+    },
+    {
+        "name": "shadcn-ui",
+        "description": "Shadcn UI component library reference and patterns",
+        "category": "Frontend & UI"
+    },
+    {
+        "name": "marketing-psychology",
+        "description": "Psychological principles and mental models for marketing",
+        "category": "SEO & Growth"
+    },
+    {
+        "name": "marketing-ideas",
+        "description": "140+ marketing strategies and growth ideas",
+        "category": "SEO & Growth"
+    },
+    {
+        "name": "programmatic-seo",
+        "description": "Building SEO-driven pages at scale using templates",
+        "category": "SEO & Growth"
     }
 ]
